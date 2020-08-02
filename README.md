@@ -9,5 +9,5 @@
 # 运行方法
 rosrun kalman_filter kalman_filter 
 # 具体细节
-可以参见我的博客
+可以参见我的博客https://blog.csdn.net/qq_40464599/article/details/107750805
 
